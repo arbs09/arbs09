@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm @arbs09</h1>
 
-<a href="https://mastodon.social/@arbs" rel="me">My Website</a>
+<a href="https://arbs09.de" rel="me">My Website</a>
 
 
 # 💻 Tech Stack:
