@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm @arbs09</h1>
 
-<a href="https://arbs09.de" rel="me">My Website</a>
+<a href="https://arbs09.dev/?ref=githubprofile" rel="me">My Website</a>
+<a href="https://arbs09.de/?ref=githubprofile">My photo page"</a>
 
 
 # 💻 Tech Stack:
